@@ -12,3 +12,4 @@ int main()
     }
     cout << fact;
 }
+// This code calculates the factorial of a given number n.
