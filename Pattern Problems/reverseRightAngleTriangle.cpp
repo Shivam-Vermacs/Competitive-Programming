@@ -5,7 +5,7 @@ int main()
 {
     int n, count = 5;
     cin >> n;
-
+    
     for (int i = 0; i < n; i++)
     {
 
